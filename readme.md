@@ -14,4 +14,4 @@ There is no styling done (yet), the focus for now is on making proper vanilla Ja
 
 ---
 ## Rights
-Made by [Stephanie Van Bockhaven](https://github.com/Steeeeeph) for [Becode](www.becorde.org) Ghent.
+Made by [Stephanie Van Bockhaven](https://github.com/Steeeeeph) for [Becode](www.becode.org) Ghent.
